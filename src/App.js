@@ -1,5 +1,5 @@
 import './App.css';
-import Scroll from '../../cuentaz_react2/src/Scroll';
+import Scroll from './Scroll';
 
 function App() {
   return (
